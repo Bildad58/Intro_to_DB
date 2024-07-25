@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS alx_book_Store;
+CREATE DATABASE IF NOT EXISTS alx_book_Store
 
 #create a book table with its rows and columns
 
